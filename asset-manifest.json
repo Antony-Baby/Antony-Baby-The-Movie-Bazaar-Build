@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/The-Movie-Bazaar/static/css/main.c56f01b9.chunk.css",
+    "main.js": "/The-Movie-Bazaar/static/js/main.2fe482bf.chunk.js",
+    "main.js.map": "/The-Movie-Bazaar/static/js/main.2fe482bf.chunk.js.map",
+    "runtime-main.js": "/The-Movie-Bazaar/static/js/runtime-main.9236c06a.js",
+    "runtime-main.js.map": "/The-Movie-Bazaar/static/js/runtime-main.9236c06a.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/The-Movie-Bazaar/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.4274b4c6.chunk.js": "/The-Movie-Bazaar/static/js/2.4274b4c6.chunk.js",
+    "static/js/2.4274b4c6.chunk.js.map": "/The-Movie-Bazaar/static/js/2.4274b4c6.chunk.js.map",
+    "index.html": "/The-Movie-Bazaar/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/The-Movie-Bazaar/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.c56f01b9.chunk.css.map": "/The-Movie-Bazaar/static/css/main.c56f01b9.chunk.css.map",
+    "static/js/2.4274b4c6.chunk.js.LICENSE.txt": "/The-Movie-Bazaar/static/js/2.4274b4c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9236c06a.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.4274b4c6.chunk.js",
+    "static/css/main.c56f01b9.chunk.css",
+    "static/js/main.2fe482bf.chunk.js"
+  ]
+}
